@@ -70,10 +70,10 @@ int main() {
     fclose(fp);
     return 0;
 }
-
 ```
 # OUTPUT
-<img width="975" height="679" alt="image" src="https://github.com/user-attachments/assets/38c8d44c-2f12-44ed-8792-c66505c2fbb3" />
+<img width="901" height="626" alt="image" src="https://github.com/user-attachments/assets/d7a4984c-a3c4-44fc-856a-01f74db907c8" />
+
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
